@@ -2,7 +2,7 @@ variable "filename" {
   default = "pets.txt"
 }
 variable "content" {
-    default = "We love the pets!"
+    default = "I love all kinds of pets. but my favorite once is Mrs.Logan"
 }
 variable "prefix" {
 
@@ -12,5 +12,5 @@ variable "separator" {
     default = "."
 }
 variable "length" {
-    default = 1
+    default = 2
 }
